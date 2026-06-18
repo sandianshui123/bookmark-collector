@@ -1,6 +1,15 @@
 {
   "entries": [
     {
+      "title": "测试：信息收藏夹上线",
+      "url": "https://sandianshui123.github.io/bookmark-collector/",
+      "category": "AI/科技",
+      "note": "系统初始化测试条目",
+      "id": "mqja3gsb-xun6",
+      "date": "2026-06-18",
+      "status": "待看"
+    },
+    {
       "id": "demo-001",
       "date": "2026-06-18",
       "title": "OpenAI 发布 GPT-5 技术预览版",
