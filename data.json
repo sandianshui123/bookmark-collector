@@ -8,42 +8,6 @@
       "id": "mqjawd0k-pq27",
       "date": "2026-06-18",
       "status": "待看"
-    },
-    {
-      "title": "测试：信息收藏夹上线",
-      "url": "https://sandianshui123.github.io/bookmark-collector/",
-      "category": "AI/科技",
-      "note": "系统初始化测试条目",
-      "id": "mqja3gsb-xun6",
-      "date": "2026-06-18",
-      "status": "待看"
-    },
-    {
-      "id": "demo-001",
-      "date": "2026-06-18",
-      "title": "OpenAI 发布 GPT-5 技术预览版",
-      "url": "https://example.com/gpt5-preview",
-      "category": "AI/科技",
-      "status": "待看",
-      "note": ""
-    },
-    {
-      "id": "demo-002",
-      "date": "2026-06-18",
-      "title": "宁德时代发布新一代钠离子电池",
-      "url": "https://example.com/catl-sodium-battery",
-      "category": "股票",
-      "status": "待看",
-      "note": "关注产业链上下游"
-    },
-    {
-      "id": "demo-003",
-      "date": "2026-06-17",
-      "title": "iOS 26 值得关注的 10 个新功能",
-      "url": "https://example.com/ios26-features",
-      "category": "AI/科技",
-      "status": "已读",
-      "note": ""
     }
   ]
 }
